@@ -63,3 +63,6 @@ const hamburger = {
 const secondBurger = structuredClone(hamburger);
 const thirdBurger = structuredClone(hamburger);
 Quanti oggetti sono stati creati in memoria durante l'esecuzione di questo codice? 2. in tot sono 3
+
+
+ogni oggetto contiene 2 oggetti annidati. 
